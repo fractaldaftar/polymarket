@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+# Node
+node_modules/
+# Env & secrets (never commit credentials)
+.env
+.env.*
+*.pem
+*.key
+# OS
+.DS_Store
